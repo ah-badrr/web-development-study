@@ -1,5 +1,7 @@
-Web Development Study
-- Istiqomah dalam belajar web development
-- Pantang menyerah dalam belajar
-- Menjadi web developer proffessional
-- Membangun bisnis web secara global
+Rencana Belajar WD
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+- Git & Github
+- SASS
