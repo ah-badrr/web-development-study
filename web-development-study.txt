@@ -1,6 +1,10 @@
 Rencana Belajar WD
-- HTML
+- HTML 
+  * Basic HTML
 - CSS
+  * CSS Layouting
+  * Flexbox
+  * Grid
 - Javascript
 - Bootstrap
 - Git & Github
